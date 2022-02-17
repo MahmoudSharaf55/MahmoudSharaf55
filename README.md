@@ -16,7 +16,9 @@
 - ⚡ Fun fact: Hello World!
 - 🔗 Check out my latest repositories from [here.](https://github.com/MahmoudSharaf55)
 
-<div style="display: inline_block"><br>
+##
+<br>
+<div style="display: inline_block">
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -27,7 +29,7 @@
 </div>
 
 ##
-
+<br>
 <div> 
 
 <a href="https://www.facebook.com/mahmoud.abdalla.sharaf55/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
@@ -35,7 +37,6 @@
 <a href="mailto:mahmoudsharf55@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://wa.me/+2011100568681" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/mahmoud-sharaf-51aab3171/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
 
 </div>
 
