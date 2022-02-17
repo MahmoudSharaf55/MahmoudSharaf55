@@ -11,7 +11,7 @@
 ##
 
 - 💻 Bachelor of Faculty of Computer and information (CS Department) with Excellent with the highest Honor.
-- 🌱 I’m currently MERN Stack Web Developer.
+- 🌱 I’m currently MERN Stack Developer.
 - ♦️ I also have experience with Flutter and made more projects with it published in Google Play and App Store.
 - ⚡ Fun fact: Hello World!
 - 🔗 Check out my latest repositories from [here.](https://github.com/MahmoudSharaf55)
