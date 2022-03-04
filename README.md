@@ -39,7 +39,7 @@
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="60px">Connect with me
+## <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="60px">Contact With Me
 
 <div> 
 <a href="https://www.facebook.com/mahmoud.abdalla.sharaf55/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
