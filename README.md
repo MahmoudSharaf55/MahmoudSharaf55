@@ -5,7 +5,7 @@
 
 <br><br>
 
-## <img src="https://media.giphy.com/media/DszEfAXkoLPF0rgv4r/giphy.gif" width="20px"> GitHub Analytics
+## <img src="https://media.giphy.com/media/DszEfAXkoLPF0rgv4r/giphy.gif" width="20px" height="20px"> GitHub Analytics
 <div align="center">
   <a href="https://github.com/MahmoudSharaf55">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MahmoudSharaf55&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -39,7 +39,7 @@
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="60px">Contact With Me
+## <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="40px" height="40px">Contact With Me
 
 <div> 
 <a href="https://www.facebook.com/mahmoud.abdalla.sharaf55/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
