@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="logo.gif" width="250" height="250">
-    <source media="(prefers-color-scheme: light)" srcset="logo-dark.gif" width="250" height="250">
-    <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="logo-dark.gif" width="250" height="250">
+    <source media="(prefers-color-scheme: light)" srcset="logo-black.gif" width="250" height="250">
+    <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="logo-black.gif" width="250" height="250">
   </picture>
 </div>
 <br>
