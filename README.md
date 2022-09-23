@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="logo.gif" width="250" height="250" />
+</div>
+
+<br>
+
 ## 📊 GitHub Analytics
 <div align="center">
   <a href="https://github.com/MahmoudSharaf55">
@@ -14,7 +20,6 @@
 - 💻 Bachelor of Faculty of Computer and information (CS Department) with Excellent with the highest Honor.
 - 🌱 I’m currently MERN Stack Developer.
 - ♦️ I also have experience with Flutter and made more projects with it published in Google Play and App Store.
-- ⚡ Fun fact: Hello World!
 - 📌 Take a quick visit to my portfolio website from [here.](https://sharaf.vercel.app)
 - 🔗 Check out my latest repositories from [here.](https://github.com/MahmoudSharaf55)
 
@@ -46,6 +51,3 @@
 </div>
 
 <br>
-
-![Snake animation](github-user-contribution.svg)  
- 
