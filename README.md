@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="logo.gif" width="250" height="250">
     <source media="(prefers-color-scheme: light)" srcset="logo_black.gif" width="250" height="250">
-    <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="logo_black.gif" width="250" height="250">
+    <img alt="" src="logo_black.gif" width="250" height="250">
   </picture>
 </div>
 <br>
@@ -10,9 +10,21 @@
 ## 📊 GitHub Analytics
 <div align="center">
   <a href="https://github.com/MahmoudSharaf55">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MahmoudSharaf55&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudSharaf55&layout=compact&langs_count=7&theme=dark"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=MahmoudSharaf55&theme=dark&date_format=M%20j%5B%2C%20Y%5D"/>
+    <picture height="180em">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MahmoudSharaf55&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=MahmoudSharaf55&show_icons=true&include_all_commits=true&count_private=true">
+      <img alt="" height="180em" src="https://github-readme-stats.vercel.app/api?username=MahmoudSharaf55&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+    </picture>
+    <picture height="180em">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudSharaf55&layout=compact&langs_count=8&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudSharaf55&layout=compact&langs_count=8">
+      <img alt="" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudSharaf55&layout=compact&langs_count=8&theme=dark">
+    </picture>
+    <picture height="180em">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=MahmoudSharaf55&theme=dark&date_format=M%20j%5B%2C%20Y%5D">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=MahmoudSharaf55&date_format=M%20j%5B%2C%20Y%5D">
+      <img alt="" height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=MahmoudSharaf55&theme=dark&date_format=M%20j%5B%2C%20Y%5D">
+    </picture>
   </a>
 </div>
 
@@ -30,7 +42,7 @@
 
 ## 🛠️ Skills I have
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,html,css,js,ts,angular,react,electron,flutter,java,mongodb,mysql)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=nodejs,html,css,js,ts,angular,react,electron,flutter,java,mongodb,mysql,firebase)
 
 <br>
 
