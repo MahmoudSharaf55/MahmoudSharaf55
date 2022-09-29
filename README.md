@@ -33,7 +33,7 @@
 ## 💡 About Me
 
 - 💻 Bachelor of Faculty of Computer and information (CS Department) with Excellent with the highest Honor.
-- 🌱 I’m currently MERN Stack Developer.
+- 🌱 I’m currently MEARN Stack Developer.
 - ♦️ I also have experience with Flutter and made more projects with it published in Google Play and App Store.
 - 📌 Take a quick visit to my portfolio website from [here.](https://sharaf.vercel.app)
 - 🔗 Check out my latest repositories from [here.](https://github.com/MahmoudSharaf55)
