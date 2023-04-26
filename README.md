@@ -20,11 +20,6 @@
       <source media="(prefers-color-scheme: light)" srcset="https://sharaf-github-readme-stats.vercel.app/api/top-langs/?username=MahmoudSharaf55&layout=compact&langs_count=8">
       <img alt="" height="180em" src="https://sharaf-github-readme-stats.vercel.app/api/top-langs/?username=MahmoudSharaf55&layout=compact&langs_count=8&theme=dark">
     </picture>
-    <picture height="180em">
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=MahmoudSharaf55&theme=dark&date_format=M%20j%5B%2C%20Y%5D">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=MahmoudSharaf55&date_format=M%20j%5B%2C%20Y%5D">
-      <img alt="" height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=MahmoudSharaf55&theme=dark&date_format=M%20j%5B%2C%20Y%5D">
-    </picture>
   </a>
 </div>
 
@@ -40,9 +35,9 @@
 
 <br>
 
-## 🛠️ Skills I have
+## 🛠️ Skills
 
-![My Skills](https://skillicons.dev/icons?i=nodejs,html,css,js,ts,angular,react,electron,flutter,java,mongodb,mysql,firebase)
+![My Skills](https://skillicons.dev/icons?i=nodejs,html,css,js,ts,angular,rxjs,react,electron,flutter,java,mongodb,mysql,firebase)
 
 <br>
 
